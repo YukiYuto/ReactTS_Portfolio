@@ -1,0 +1,55 @@
+{
+  "appHeader": {
+    "brand": "Quân",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về tác giả"
+  },
+  "introduce": {
+    "title": "Xin chào",
+    "description": "Tôi là"
+  },
+
+  "heroSection": {
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Yêu đơn phương lập trình và tôi tin rằng mình đã học hỏi được ít nhiều điều gì đó. 🤷‍♂️",
+    "heading2": "Tôi nắm vững các ngôn ngữ huyền thoại như là",
+    "heading3": "Lĩnh vực quan tâm của tôi là",
+    "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
+    "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  },
+  "about": {
+    "title": "Tôi là",
+    "subtitle": "Ai?",
+    "body_1": "Xin chào mọi người, tôi là Quân đến từ Thành phố Hồ Chí Minh, Việt Nam.",
+    "body_2": "Tôi đã hoàn thành bằng cử nhân Kỹ sư Phần mềm tại Đại học FPT (FPTU).",
+    "body_3": "Ngoài lập trình, tôi còn yêu thích một số hoạt động khác!",
+    "subbody_3-1": "Chơi game",
+    "subbody_3-2": "Nghe nhạc",
+    "subbody_3-3": "Xem phim",
+    "quote": "Theo đuổi ước mơ của bạn là cách để bạn trở thành người vô gia cư ~.~",
+    "quote_author": "Jimmy O Yang"
+  },
+  "education": {
+    "title": "Học vấn",
+    "degree": "Kỹ sư phần mềm",
+    "university": "Đại học FPT (FPTU)",
+    "duration": "2021-2025"
+  },
+  "footer": {
+    "find": "Tìm tôi trên",
+    "contact": "Liên hệ với tôi"
+  }
+}
